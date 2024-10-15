@@ -7,4 +7,5 @@
 <p>Texto modificado por Antonio en su pc </p>
 <p>Archivo modificado desde la rama conflictos_archivos. modificación nueva
 Antonio<p>
+<p>Nueva modificación. Con Mario dando clases<p>
 </html>
