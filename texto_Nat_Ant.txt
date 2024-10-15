@@ -4,5 +4,7 @@
 
 	<p>Lorem ipsum</p>
 
-
+<p>Texto modificado por Antonio en su pc </p>
+<p>Archivo modificado desde la rama conflictos_archivos. modificación nueva
+Antonio<p>
 </html>
