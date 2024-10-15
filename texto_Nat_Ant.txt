@@ -7,4 +7,6 @@
 <p>Texto modificado por Antonio en su pc </p>
 <p>Archivo modificado desde la rama conflictos_archivos. modificación nueva
 Antonio<p>
+
+<p> Segunda modificacion hecho por Natalia el 15/10/24</p>
 </html>
