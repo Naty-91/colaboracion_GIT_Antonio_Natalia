@@ -7,6 +7,10 @@
 <p>Texto modificado por Antonio en su pc </p>
 <p>Archivo modificado desde la rama conflictos_archivos. modificación nueva
 Antonio<p>
+<<<<<<< HEAD
 
 <p> Segunda modificacion hecho por Natalia el 15/10/24</p>
+=======
+<p>Nueva modificación. Con Mario dando clases<p>
+>>>>>>> archivos_conflictos
 </html>
